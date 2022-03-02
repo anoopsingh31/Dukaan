@@ -1,0 +1,21 @@
+
+.freeproducts-card-head{
+    width: 35.2rem;
+}
+
+.freeproducts-card-head h1{
+    font-family: 'galanogrotesque-medium';
+   color: #1A181E;
+}
+
+
+.freeproducts-card-para{
+    width: 35.2rem;
+}
+
+.freeproducts-card-para p{
+    font-family: 'galanogrotesque-regular';
+    color: #4D4D4D;
+    font-size: 1.7rem;
+    line-height: 2.5rem;
+}

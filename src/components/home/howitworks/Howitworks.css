@@ -1,0 +1,49 @@
+.howitworks-wrapper {
+  position: relative;
+  display: flex;
+  background-color: #f0f4f7;
+  box-sizing: border-box;
+  padding: 5% 12%;
+  z-index: -1;
+}
+
+.select-wrap,
+.standout-wrap,
+.search-wrap {
+  width: 33.3%;
+  box-sizing: border-box;
+}
+
+.search-wrap{
+    margin-right: 3%;
+    box-sizing: border-box;
+}
+
+.select-wrap{
+    margin: 0 3%;
+    box-sizing: border-box;
+}
+
+.standout-wrap{
+    margin-left: 3%;
+    box-sizing: border-box;
+}
+
+.howitworks-image {
+  display: flex;
+  justify-content: center;
+}
+
+.howitworks-heading h1 {
+  font-family: 'galanogrotesque-medium';
+  text-align: center;
+  color: #1A181E;
+  font-size: 2.2rem;
+}
+
+
+.howitworks-para p {
+  font-family: 'galanogrotesque-regular';
+  text-align: center;
+  font-size: 1.8rem;
+}

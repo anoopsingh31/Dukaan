@@ -1,0 +1,46 @@
+.navbar-wrapper{
+    background-color:  #146EB4;
+    height: 15rem;
+    position: relative;
+    box-sizing: border-box;
+    width: 100%;
+}
+.navbar-inner-wrap{
+    position: relative;
+    width: 76%;
+    padding: 3rem 0;
+    margin: 0 12%;
+    box-sizing: border-box;
+    position: fixed;
+    display: flex;
+    justify-content: space-between;
+    z-index: 100;
+}
+
+.navbar-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.signin-div{
+    padding: 0 2rem;
+}
+
+.signin-div p{
+    color: #FFFFFF;
+    font-size: 2rem;
+    margin: 0;
+    font-family: 'galanogrotesque-regular';
+}
+
+.pc-div button{
+    border: none;
+    color: #146EB4;
+    background-color: #FFFFFF;
+    height: 5rem;
+    width: 18rem;
+    border-radius: .5rem;
+    font-size: 1.8rem;
+    font-family: 'galanogrotesque-medium';
+}

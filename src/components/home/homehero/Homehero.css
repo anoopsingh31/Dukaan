@@ -1,0 +1,140 @@
+.homehero-wrapper {
+  background-color: #fafafa;
+  padding: 0 0 5% 0;
+  box-sizing: border-box;
+  position: relative;
+}
+
+.homehero-blue {
+  position: absolute;
+  box-sizing: border-box;
+  background-color: #146eb4;
+  height: 22rem;
+  width: 100%;
+}
+.homehero-inner-wrap {
+  position: relative;
+  padding: 4% 13%;
+  padding-bottom: 0;
+  box-sizing: border-box;
+  border-radius: 1rem;
+  background-color: #ffffff;
+  z-index: 1;
+  margin: 0 12% 0 12%;
+}
+
+.homehero-top h1 {
+  font-family: "galanogrotesque-bold", sans-serif;
+  color: #1a181e;
+  font-size: 3.5rem;
+}
+
+.homehero-top p {
+  font-family: "galanogrotesque-regular";
+  color: #4d4d4d;
+  font-size: 2.2rem;
+  margin-top: 0;
+}
+
+.homehero-top h6 {
+  font-family: "galanogrotesque-medium";
+  color: #4d4d4d;
+  font-size: 1.7rem;
+  margin: 5rem 0 1rem 0;
+  font-weight: 600;
+}
+
+.homehero-textfield {
+  color: #ffffff;
+  border-radius: 0.5rem;
+  width: 35rem;
+  height: 4.6rem;
+  border: 2px solid #d9d9d9;
+  /* padding-left: 2rem; */
+  font-size: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.homehero-textfield p {
+  padding-left: 2rem;
+  font-size: 2rem;
+  margin: 0;
+}
+.homehero-textfield img {
+  padding-right: 2rem;
+}
+
+.homehero-button {
+  padding: 4rem 0;
+}
+
+.homehero-button button {
+  font-family: "galanogrotesque-medium";
+  background-color: #146eb4;
+  color: #ffffff;
+  border: none;
+  border-radius: 0.4rem;
+  height: 4.6rem;
+  width: 20rem;
+  font-size: 1.8rem;
+}
+
+.homehero-bottom {
+  border-bottom: 1px solid #d9d9d9;
+  border-top: 1px solid #d9d9d9;
+  padding: 4rem 0;
+}
+
+.homehero-bottom-head {
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding-bottom: 4rem;
+}
+
+.slogan-heading h1{
+    font-family: 'galanogrotesque-regular';
+}
+
+.slogan-download {
+  display: flex;
+  align-items: center;
+}
+
+.slogan-download button {
+ font-family: 'galanogrotesque-medium';
+  background-color: #ffffff;
+  color: #146eb4;
+  border: 2px solid #146eb4;
+  border-radius: 0.4rem;
+  height: 3.6rem;
+  width: 15rem;
+  font-size: 1.4rem;
+}
+
+.homehero-bottom-content {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.homehero-paging {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 0;
+}
+
+.paging-next{
+    display: flex;
+    align-items: center;
+}
+.paging-next img{
+    padding: .5rem 0 0 .7rem;
+}
+
+.paging-next p {
+  color: #146eb4;
+  margin: 0;
+  font-size: 1.5rem;
+}

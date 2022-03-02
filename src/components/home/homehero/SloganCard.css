@@ -1,0 +1,18 @@
+.slogan-card{
+    display: flex;
+    align-items: center;
+    background-color: #F2F2F2;
+    border-radius: .5rem;
+    width: 34rem;
+    height: 4.5rem;
+    padding: .8rem;
+    margin-bottom: 2rem;
+}
+
+.slogan-card p{
+    margin: 0;
+    color: #1A181E;
+    font-size: 1.7rem;
+    font-family: 'galanogrotesque-regular';
+    padding: 0 2rem;
+}
